@@ -1,0 +1,28 @@
+,WH_solar,WH_gas,WH_peak_e,WH_OP_e,gas,NG,jet_fuel,waste_mgmt,hybrid,peak_e,OP_e
+Household heating => 70F,,,,,,0.000436,,,,0.00065,0.000542
+Household heating < 70F,,,,,,0.000872,,,,0.000923,0.000901
+Use of heat pump,,,,,,0.001074,,,,0.001229,0.001188
+Use of air conditioner,,,,,,0.000598,,,,0.00798,0.000721
+shower - short,1.2e-05,0.000102,0.000232,0.000199,,,,,,,
+shower - long (> 3 min),1.7e-05,0.000149,0.000354,0.000312,,,,,,,
+bath,8.8e-05,0.000254,0.000412,0.000368,,,,,,,
+wash-up,4e-06,4.2e-05,6.7e-05,5.5e-05,,,,,,,
+use of dishwasher,2.5e-05,0.000165,0.000398,0.000311,,,,,,8.4e-05,7.8e-05
+use of clothes washer,3.3e-05,0.000199,0.000433,0.000382,,0.000154,,,,0.000102,9.3e-05
+use of clothes dryer,,,,,,0.000187,,,,0.000132,0.000122
+use of cooking range,,,,,,0.000201,,,,0.000142,0.000135
+use of  oven,,,,,,0.000255,,,,0.000162,0.00015
+use of self-clean feature of electric oven,,,,,,,,,,0.000199,0.000178
+Small kitchen appliance in the home,,,,,,,,,,5.4e-05,4.1e-05
+TV/computer use,,,,,,,,,,2e-06,2e-06
+air travel - large plane,,,,,,,0.0179,,,,
+air travel - small  plane (<50 seats),,,,,,,0.0408,,,,
+car trips- self only,,,,,0.000551,,,,0.000332,0.000192,0.000233
+car trips - driver and self,,,,,0.000554,,,,0.000337,0.000199,0.000245
+car trips - 2+ people with multiple end points,,,,,0.000354,,,,0.000123,3.2e-05,5.5e-05
+trips using public ground transportation,,,,,0.000276,,,,,,
+bags of garbage disposed,,,,,,,,0.0419,,,
+bags of recycling deposited (negative CF),,,,,,,,-0.0419,,,
+bags of compost deposited (negative CF),,,,,,,,-0.0419,,,
+hazardous or electric items disposed,,,,,,,,0.0211,,,
+large items disposed,,,,,,,,0.0211,,,

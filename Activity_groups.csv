@@ -1,0 +1,28 @@
+,Group,Activity
+0,1,Household heating => 70F
+1,1,Household heating < 70F
+2,1,Use of heat pump
+3,1,Use of air conditioner
+4,2,shower - short
+5,2,shower - long (> 3 min)
+6,2,bath
+7,2,wash-up
+8,3,use of dishwasher
+9,3,use of clothes washer
+10,3,use of clothes dryer
+11,3,use of cooking range
+12,3,use of  oven
+13,3,use of self-clean feature of electric oven
+14,3,Small kitchen appliance in the home
+15,4,TV/computer use
+16,5,air travel - large plane
+17,5,air travel - small  plane (<50 seats)
+18,5,car trips- self only
+19,5,car trips - driver and self
+20,5,car trips - 2+ people with multiple end points
+21,5,trips using public ground transportation
+22,6,bags of garbage disposed
+23,6,bags of recycling deposited (negative CF)
+24,6,bags of compost deposited (negative CF)
+25,6,hazardous or electric items disposed
+26,6,large items disposed
